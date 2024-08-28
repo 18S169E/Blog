@@ -1,9 +1,9 @@
 # site description
 # 网站描述
-description = "The official documentation for the Hugo DoIt theme"
+description = "18S169E的个人博客"
 # site keywords
 # 网站关键词
-keywords = ["Theme", "Hugo"]
+keywords = ["18S169E", "Blog"]
 # App icon config
 # 应用图标配置
 [app]

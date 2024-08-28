@@ -1,14 +1,14 @@
 {
     "version" : "https://jsonfeed.org/version/1.1",
-    "title" : "DoIt",
+    "title" : "18S169E's Blog",
     "description": "Hugo DoIt 主题官方文档",
     "home_page_url" : "http://localhost:1313/",
     "feed_url" : "http://localhost:1313/zh-cn/index.feed",
     "icon" : "http://localhost:1313/apple-touch-icon.png",
     "favicon" : "http://localhost:1313/favicon.ico",
     "author" : {
-        "name" : "PCloud",
-        "url": "https://github.com/HEIGE-PCloud",
+        "name" : "18S169E",
+        "url": "https://github.com/18S169E",
         "avatar": "http://localhost:1313/images/avatar.webp"
     },
     "items" : [

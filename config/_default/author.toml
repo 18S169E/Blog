@@ -1,8 +1,9 @@
 # Author config
 # 作者配置
 
-name = "PCloud"
-email = "heige.pcloud@outlook.com"
-link = "https://github.com/HEIGE-PCloud"
-avatar = "/images/avatar.webp"
-gravatarEmail = "heige.pcloud@outlook.com"
+name = "18S169E"
+email = "18s169e@gmail.com"
+link = "https://github.com/18S169E"
+avatar = "images/avatar.webp"
+avatarLinkURL = "https://www.gravatar.com/avatar/4589691e9b99e3ff7f70f2aff32ecb0e?s=200&d=identicon&r=g"
+gravatarEmail = ""

@@ -4,7 +4,7 @@ baseURL = "https://hugodoit.pages.dev"
 defaultContentLanguage = "en"
 # website title
 # 网站标题
-title = "DoIt"
+title = "18S169E's Blog"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -26,6 +26,9 @@ theme = "DoIt"
 # themes directory
 # 主题目录
 themesDir = "themes"
+
+# timeout
+timeout = "5s"
 
 # Or, when using theme as hugo module
 # [module]

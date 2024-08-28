@@ -1,14 +1,14 @@
 {
     "version" : "https://jsonfeed.org/version/1.1",
-    "title" : "DoIt",
-    "description": "The official documentation for the Hugo DoIt theme",
+    "title" : "18S169E's Blog",
+    "description": "18S169E的个人博客",
     "home_page_url" : "http://localhost:1313/",
     "feed_url" : "http://localhost:1313/index.feed",
     "icon" : "http://localhost:1313/apple-touch-icon.png",
     "favicon" : "http://localhost:1313/favicon.ico",
     "author" : {
-        "name" : "PCloud",
-        "url": "https://github.com/HEIGE-PCloud",
+        "name" : "18S169E",
+        "url": "https://github.com/18S169E",
         "avatar": "http://localhost:1313/images/avatar.webp"
     },
     "items" : [
