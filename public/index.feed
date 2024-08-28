@@ -1,0 +1,26 @@
+{
+    "version" : "https://jsonfeed.org/version/1.1",
+    "title" : "DoIt",
+    "description": "The official documentation for the Hugo DoIt theme",
+    "home_page_url" : "http://localhost:1313/",
+    "feed_url" : "http://localhost:1313/index.feed",
+    "icon" : "http://localhost:1313/apple-touch-icon.png",
+    "favicon" : "http://localhost:1313/favicon.ico",
+    "author" : {
+        "name" : "PCloud",
+        "url": "https://github.com/HEIGE-PCloud",
+        "avatar": "http://localhost:1313/images/avatar.webp"
+    },
+    "items" : [
+    {
+        "title" : "My First Post",
+        "date_published" : "2024-08-28T00:46:48+08:00",
+        "date_modified" : "2024-08-28T00:46:48+08:00",
+        "id" : "http://localhost:1313/my-first-post/",
+        "url" : "http://localhost:1313/my-first-post/",
+        "summary": "This is bold text, and this is emphasized text.\nVisit the Hugo website!",
+        "content_html" : "\u003cp\u003eThis is \u003cstrong\u003ebold\u003c/strong\u003e text, and this is \u003cem\u003eemphasized\u003c/em\u003e text.\u003c/p\u003e\n\u003cp\u003eVisit the \u003ca href=\"https://gohugo.io\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eHugo\u003c/a\u003e website!\u003c/p\u003e\n",
+        "language": "en"
+    }
+    ]
+}
