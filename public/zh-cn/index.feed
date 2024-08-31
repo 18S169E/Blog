@@ -2,14 +2,14 @@
     "version" : "https://jsonfeed.org/version/1.1",
     "title" : "18S169E's Blog",
     "description": "Hugo DoIt 主题官方文档",
-    "home_page_url" : "http://localhost:1313/",
-    "feed_url" : "http://localhost:1313/zh-cn/index.feed",
-    "icon" : "http://localhost:1313/apple-touch-icon.png",
-    "favicon" : "http://localhost:1313/favicon.ico",
+    "home_page_url" : "https://hugodoit.pages.dev/",
+    "feed_url" : "https://hugodoit.pages.dev/zh-cn/index.feed",
+    "icon" : "https://hugodoit.pages.dev/apple-touch-icon.png",
+    "favicon" : "https://hugodoit.pages.dev/favicon.ico",
     "author" : {
         "name" : "18S169E",
         "url": "https://github.com/18S169E",
-        "avatar": "http://localhost:1313/images/avatar.webp"
+        "avatar": "https://hugodoit.pages.dev/images/avatar.webp"
     },
     "items" : [
     ]

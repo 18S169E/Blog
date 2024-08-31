@@ -1,18 +1,38 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>18S169E&#39;s Blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://hugodoit.pages.dev/</link>
         <description>18S169E的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>18s169e@gmail.com (18S169E)</managingEditor>
-            <webMaster>18s169e@gmail.com (18S169E)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 28 Aug 2024 00:46:48 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <webMaster>18s169e@gmail.com (18S169E)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 31 Aug 2024 20:01:44 &#43;0800</lastBuildDate>
+            <atom:link href="https://hugodoit.pages.dev/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My First Post</title>
-    <link>http://localhost:1313/my-first-post/</link>
-    <pubDate>Wed, 28 Aug 2024 00:46:48 &#43;0800</pubDate><author>
+    <title>Neovim Config</title>
+    <link>https://hugodoit.pages.dev/neovim-config/</link>
+    <pubDate>Sat, 31 Aug 2024 20:01:44 &#43;0800</pubDate><author>
         <name>18S169E</name>
-    </author><guid>http://localhost:1313/my-first-post/</guid>
-    <description><![CDATA[This is bold text, and this is emphasized text.
-Visit the Hugo website!]]></description>
+    </author><guid>https://hugodoit.pages.dev/neovim-config/</guid>
+    <description><![CDATA[Neovim 配置文档 1 1. 插件管理使用 lazy.nvim 进行插件管理。lazy.nvim 是一个高效的插件管理器，能够按需加载插件。
+text
+lua复制代码-- ~/.config/nvim/lua/config/lazy.lua return { -- 插件列表 { &#39;nvim-treesitter/nvim-treesitter&#39;, -- Treesitter 插件 run = &#39;:TSUpdate&#39;, -- 安装后更新 Treesitter }, { &#39;neovim/nvim-lspconfig&#39;, -- LSP 配置 config = function() require&#39;lspconfig&#39;.pyright.setup{} -- Python LSP end, }, -- 其他插件配置... } 2 2. 配置文件结构Neovim 的配置文件结构分为以下几个主要部分：
+text
+lua复制代码-- ~/.config/nvim/init.lua -- 初始化配置 require(&#39;config.lazy&#39;) -- 插件管理 require(&#39;config.keymaps&#39;) -- 键位映射 require(&#39;config.settings&#39;) -- 常规设置 require(&#39;config.autocmds&#39;) -- 自动命令 3 3. 键位映射定义了自定义的快捷键映射，以提高操作效率。以下是一个示例配置：
+text]]></description>
+</item><item>
+    <title>Test</title>
+    <link>https://hugodoit.pages.dev/test/</link>
+    <pubDate>Sat, 31 Aug 2024 19:36:07 &#43;0800</pubDate><author>
+        <name>18S169E</name>
+    </author><guid>https://hugodoit.pages.dev/test/</guid>
+    <description><![CDATA[this only for test]]></description>
+</item><item>
+    <title>Create-Site</title>
+    <link>https://hugodoit.pages.dev/create_site/</link>
+    <pubDate>Sat, 31 Aug 2024 19:23:16 &#43;0800</pubDate><author>
+        <name>18S169E</name>
+    </author><guid>https://hugodoit.pages.dev/create_site/</guid>
+    <description><![CDATA[创建个人博客 使用工具：Hugo：DoIt主题。GitHub Pages。教程链接：https://hugodoit.pages.dev/zh-cn/theme-documentation-basics/。 创建基础框架和发布的内容都有详细讲解。
+虽然这时候已经有了初始框架，但是实在过于start from the scratch。所以我想找一个别人在这个框架实现的模板上在修改，事实上，作者给了这么一个模板。位于：DoIt/exampleSite/config/_default下。然后修改配置文件的结构：https://gohugo.io/getting-started/configuration/。
+发现原理是config和DoIt框架共同配合工作的。 通过在本地添加文件实现了头像的显示。]]></description>
 </item></channel>
 </rss>
