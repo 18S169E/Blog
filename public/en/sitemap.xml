@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hugodoit.pages.dev/</loc><lastmod>2024-08-31T20:01:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugodoit.pages.dev/</loc><lastmod>2025-01-01T12:30:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://hugodoit.pages.dev/zh-cn/"
@@ -11,10 +11,10 @@
                     hreflang="en"
                     href="https://hugodoit.pages.dev/"
                     /></url><url>
-            <loc>https://hugodoit.pages.dev/neovim-config/</loc><lastmod>2024-08-31T20:01:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/posts/</loc><lastmod>2024-08-31T20:01:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/test/</loc><lastmod>2024-08-31T19:36:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/create_site/</loc><lastmod>2024-08-31T19:23:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hugodoit.pages.dev/posts/</loc><lastmod>2025-01-01T12:30:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hugodoit.pages.dev/neovim-config/</loc><lastmod>2024-08-31T20:14:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://hugodoit.pages.dev/test/</loc><lastmod>2024-08-31T20:14:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://hugodoit.pages.dev/create_site/</loc><lastmod>2024-08-31T20:14:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://hugodoit.pages.dev/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
