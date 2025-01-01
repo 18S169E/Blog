@@ -7,6 +7,14 @@
             <webMaster>18s169e@gmail.com (18S169E)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Jan 2025 12:30:01 &#43;0800</lastBuildDate>
             <atom:link href="https://hugodoit.pages.dev/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Log_1</title>
+    <link>https://hugodoit.pages.dev/log_1/</link>
+    <pubDate>Wed, 01 Jan 2025 12:30:01 &#43;0800</pubDate><author>
+        <name>18S169E</name>
+    </author><guid>https://hugodoit.pages.dev/log_1/</guid>
+    <description><![CDATA[记录2025一月份的日志。 nvim调试：在nvim中安装插件应该可以做到前端显示+快捷键调试。但是目前在vscode中打开并且用vscode的调试感觉够用了，后续可能再更新这个设施。
+注意：1.要-g选项编译开启调试信息，2.lauch.json文件要配置好，这是用来连接gdb启动调试功能的。（目前每次修改还要手动make一下才能调试，即调试前不会自动重新编译，后面再更改）。]]></description>
+</item><item>
     <title>Neovim Config</title>
     <link>https://hugodoit.pages.dev/neovim-config/</link>
     <pubDate>Sat, 31 Aug 2024 20:01:44 &#43;0800</pubDate><author>
